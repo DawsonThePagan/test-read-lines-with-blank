@@ -1,0 +1,7 @@
+[package]
+name = "test-read-lines-with-blank"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+read_lines_with_blank={path="../read_lines_with_blank"}

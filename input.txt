@@ -1,0 +1,12 @@
+test
+
+line above is blank
+This one isn't
+
+More text
+
+
+
+
+Magic
+
